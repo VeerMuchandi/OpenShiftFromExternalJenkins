@@ -73,5 +73,5 @@ Now go back to Jenkins and start pipeline.
 Observe build, deployment and scale up on the OpenShift Webconsole while the pipeline stages are executed in the Jenkins console.
 
 
-###Summary
+### Summary
 In this article we learnt to set up a external jenkins to talk to an OpenShift cluster using Jenkins Pipeline plugin and use it.
